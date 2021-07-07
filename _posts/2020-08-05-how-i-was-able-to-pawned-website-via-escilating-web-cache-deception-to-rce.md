@@ -14,7 +14,7 @@ suppose two user bob and alice have two accounts on a website which is vulnerabl
 send a link to victim bob like this : 
 https://www.example.com/user/account/l.css
 now what happened if bob opens this link his cache copy will stored to server and alice can easily takeover account of bob by retriving cache from server thats the simple mechanism of
-web cache deception now lets move towards attack :)
+web cache deception now let's move towards attack :)
 
 **attack scenario**
 
